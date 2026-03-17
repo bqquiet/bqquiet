@@ -1,4 +1,4 @@
-# Hi, I'm Andrii (bequiet) 📌
+# Hi, I'm Andrii "bequiet" BAKALEIKO 📌
 
 #### Software Engineering Student & Freelancer from Ukraine
 
