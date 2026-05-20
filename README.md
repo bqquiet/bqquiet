@@ -21,7 +21,7 @@ Motivated student with a strong foundation in software engineering principles an
 
 * 💬 **[Chat Platform MVP](https://github.com/TNTU-F2-Software-Engineering/Andrii-BAKALEIKO-SE201-2025-2026)** — A real-time, multi-threaded messaging server and client built with Python TCP sockets. Supports dynamic routing and lays the foundation for E2E encryption.
 * 🤖 **[CRIPSIZE Bot](https://github.com/bqquiet/cripsize-bot)** — A Discord community management bot with an automated recruitment system and advanced multi-embed messaging capabilities.
-* 🌐 **[Personal Portfolio](https://ivan-puluj.github.io)** — A responsive developer portfolio featuring a dynamic administration panel for the news section.
+* 🌐 **[Personal Portfolio](https://bqquiet.github.io/bequiet-master-ua/)** — A responsive developer portfolio featuring a dynamic administration panel for the news section.
 
 ### 📈 GitHub Stats
 
