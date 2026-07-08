@@ -1,6 +1,6 @@
 # Hi, I'm Andrii "bequiet" BAKALEIKO 📌
 
-#### Junior Software Developer
+#### Trainee Software Developer
 
 ---
 
